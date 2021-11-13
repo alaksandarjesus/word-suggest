@@ -1,0 +1,8 @@
+.line-height-2{
+    line-height: 2;
+}
+.draw-words .panel-block{
+    height: 200px;
+    overflow: auto;
+    align-items: flex-start;
+}
