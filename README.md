@@ -4,14 +4,15 @@
 
 # Getting Started with App
 
-``
+`
+
 git clone https://github.com/alaksandarjesus/word-suggest.git
 
 cd word-suggest
 
 npm install
 
-``
+`
 
 ## Available Scripts
 
