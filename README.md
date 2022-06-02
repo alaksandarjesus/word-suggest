@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+## Demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Demo](https://wordsuggestor-4f835.web.app/)
+
+# Getting Started with App
+
+``
+git clone https://github.com/alaksandarjesus/word-suggest.git
+
+cd word-suggest
+
+npm install
+
+``
 
 ## Available Scripts
 
